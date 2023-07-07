@@ -1,0 +1,8 @@
+Hello %first%,     
+
+We've been working with other families in %city% to repair roof damage from the latest storm.     
+Your home at %address1% appears to have damage.       
+Please contact us at 123-446-1231 to schedule a free inspection
+
+Thank you,
+Annoying Contractors
